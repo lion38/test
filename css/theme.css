@@ -1,0 +1,70 @@
+*{margin:0;padding:0;}
+*:focus {outline:0 !important;}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 32px;
+  padding-bottom: 30px;
+  background: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/checkered_pattern.png) repeat;
+}
+
+a img{border: none;}
+a:focus{outline-style:none;}
+a:hover{text-decoration:none;}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+.jumbo{position:relative;height:auto!important;z-index:10!important;}
+.jumbotron{padding:10px 0 5px 0;margin:0;text-indent:10px;border-bottom:1px solid #dddddd;text-shadow:1px 1px 0 white;position:fixed;width:100%;}
+.underjumbo{margin-top:70px;z-index:1000!important;}
+
+.tablemarche{margin-top: 15px;border:3px solid #d9d9d9;}
+
+.tablemarche .tablemarcheCancel strong{font-family:monda;}
+.tablemarche .tablemarcheCancel span{position:relative;top:2px;}
+
+.tablemarche tr{white-space: nowrap;}
+.tablemarche tr td{white-space: normal;}
+
+.tablemarche tbody tr
+{
+	background:white;
+}
+.tablemarche thead tr
+{
+	background:#e0e0e0;
+	text-shadow:1px 1px 0 white;
+	color:#666666;
+}
+
+.tablemarche tbody tr td
+{
+	padding:3px 5px !important;
+	white-space: nowrap;
+}
+.tablemarche tbody tr td{border-left:1px solid #ddd;}
+.tablemarche thead tr th{border-left:1px solid #d9d9d9;}
+.tablemarche tbody tr td:first-child,.tablemarche thead tr th:first-child{border-left:0;}
+
+
+
+.tablemarche tbody tr td.tablemarcheEmpty
+{
+	text-align:center;
+	font-weight:bold;
+	color:#d20000;
+	background:#fcfcfc;
+	text-shadow:1px 1px 0 white;
+}
