@@ -1,0 +1,19 @@
+<div ng-controller="loggerCtrl">
+	<center><button type="button" class="btn btn-primary" ng-click="echangejoueursTableParams.reload()"><span class="glyphicon glyphicon-repeat" aria-hidden="true"></span> Actualiser</button></center>
+
+	<table ng-table="echangejoueursTableParams" class="table table-condensed table-hover tablemarche" show-filter="true">
+		<tr ng-repeat="ptrade in $data">
+			<td title="'Date'" sortable="'DateShow'" filter="{ 'DateShow': 'text' }">{{ptrade.DateShow}}</td>
+			<td title="'Trader 1'" sortable="'FirstTrader'" filter="{ 'FirstTrader': 'text' }">{{ptrade.FirstTrader}}</td>
+			<td title="'Trader 2'" sortable="'SecondTrader'" filter="{ 'SecondTrader': 'text' }">{{ptrade.SecondTrader}}</td>
+			<td title="'Trader 1 Kamas'" sortable="'FirstTraderKamas'" filter="{ 'FirstTraderKamas': 'number' }">{{ptrade.FirstTraderKamas}}</td>
+			<td title="'Trader 2 Kamas'" sortable="'SecondTraderKamas'" filter="{ 'SecondTraderKamas': 'number' }">{{ptrade.SecondTraderKamas}}</td>
+			<td title="'Trader 1 Items'">{{ptrade.FirstTraderItems}}</td>
+			<td title="'Trader 2 Items'">{{ptrade.SecondTraderItems}}</td>
+		</tr>
+		
+		<tr ng-if="$data.length == 0">
+			<td colspan="5" class="tablemarcheEmpty">Aucunes données disponibles.</td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,65 @@
+	  <div class="breaking-line" style=""></div>
+	  <script>
+	  $(function() {
+		$( "#tabsClassement" ).tabs();
+	  });
+	  </script>
+	<div id="tabsClassement" style="width:95%;margin:auto;">
+		<ul class="content-padding" style="text-align:center;list-style:none;">
+			<li style="display:inline;"><a href="#tabs-pvm" class="button big-size" style="margin-bottom:5px;">PVM</a></li> &nbsp;
+			<li style="display:inline;"><a href="#tabs-pvp" class="button big-size" style="margin-bottom:5px;background-color: #B1221C;">PVP</a></li> &nbsp;
+			<li style="display:inline;"><a href="#tabs-kolizeum" class="button big-size" style="margin-bottom:5px;background-color: #519623;">Kolizeum</a></li> &nbsp;
+			<li style="display:inline;"><a href="#tabs-guildes" class="button big-size" style="margin-bottom:5px;background-color: #DB6D1D;">Guildes</a></li>
+		</ul>
+		
+		<div id="tabs-pvm">
+			<div class="table_neph">
+				<div class="row_neph header_neph">
+					<div class="cell_neph" style="width:1%;">#</div>
+					<div class="cell_neph">Nom du personnage</div>
+					<div class="cell_neph">Classe</div>
+					<div class="cell_neph" style="width:5%;">Niveau</div>
+					<div class="cell_neph" style="width:15%;">Expérience</div>
+				</div>
+							</div>
+		</div>
+		<div id="tabs-pvp">
+			<div class="table_neph">
+				<div class="row_neph header_neph" style="background-color: #B1221C;">
+					<div class="cell_neph" style="width:1%;">#</div>
+					<div class="cell_neph">Nom du personnage</div>
+					<div class="cell_neph">Classe</div>
+					<div class="cell_neph" style="width:5%;">Niveau</div>
+					<div class="cell_neph" style="width:15%;">Honneur</div>
+				</div>
+							
+			</div>
+		</div>
+		<div id="tabs-kolizeum">
+			<div class="table_neph">
+				<div class="row_neph header_neph" style="background-color: #519623;">
+					<div class="cell_neph" style="width:1%;">#</div>
+					<div class="cell_neph" style="width:20%;">Personnage</div>
+					<div class="cell_neph">Côte</div>
+					<div class="cell_neph">Matchs du jours</div>
+				</div>
+							</div>
+		</div>
+		<div id="tabs-guildes">
+			<div class="table_neph">
+				<div class="row_neph header_neph" style="background-color: #DB6D1D;">
+					<div class="cell_neph" style="width:1%;">#</div>
+					<div class="cell_neph">Nom de la guilde</div>
+					<div class="cell_neph" style="width:5%;">Niveau</div>
+					<div class="cell_neph" style="width:15%;">Expérience</div>
+				</div>
+									<div class="row_neph">
+						<div class="cell_neph"><strong>1</strong></div>
+						<div class="cell_neph">Domanya</div>
+						<div class="cell_neph"><strong>18</strong></div>
+						<div class="cell_neph">1264226</div>
+					</div>
+								</div>
+		</div>
+	</div>
+

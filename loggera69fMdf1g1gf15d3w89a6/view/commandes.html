@@ -1,0 +1,18 @@
+<div ng-controller="loggerCtrl">
+	<center><button type="button" class="btn btn-primary" ng-click="commandesTableParams.reload()"><span class="glyphicon glyphicon-repeat" aria-hidden="true"></span> Actualiser</button></center>
+
+	<table ng-table="commandesTableParams" class="table table-condensed table-hover tablemarche" show-filter="true">
+		<tr ng-repeat="connection in $data">
+			<td title="'Date'" sortable="'Date'" filter="{ 'Date': 'text' }">{{connection.Date}}</td>
+			<td title="'Nom de compte'" sortable="'Username'" filter="{ 'Username': 'text' }">{{connection.Username}}</td>
+			<td title="'Personnage'" sortable="'Character'" filter="{ 'Character': 'text' }">{{connection.Character}}</td>
+			<td title="'Adresse IP'" sortable="'IPAddress'" filter="{ 'IPAddress': 'text' }">{{connection.IPAddress}}</td>
+			<td title="'Action'" sortable="'Action'" filter="{ 'Action': 'text' }">{{connection.Action}}</td>
+		</tr>
+		
+		<tr ng-if="$data.length == 0">
+			<td colspan="5" class="tablemarcheEmpty">Aucunes données disponibles.</td>
+		</tr>
+
+	</table>
+</div>

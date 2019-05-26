@@ -1,0 +1,19 @@
+<div ng-controller="loggerCtrl">
+	<center><button type="button" class="btn btn-primary" ng-click="connectionsTableParams.reload()"><span class="glyphicon glyphicon-repeat" aria-hidden="true"></span> Actualiser</button></center>
+
+	<table ng-table="achatpnjTableParams" class="table table-condensed table-hover tablemarche" show-filter="true">
+		<tr ng-repeat="achatpnj in $data">
+			<td title="'Date'" sortable="'DateShow'" filter="{ 'DateShow': 'text' }">{{achatpnj.DateShow}}</td>
+			<td title="'Nom de compte'" sortable="'Username'" filter="{ 'Username': 'text' }">{{achatpnj.Username}}</td>
+			<td title="'Personnage'" sortable="'Character'" filter="{ 'Character': 'text' }">{{achatpnj.Character}}</td>
+			<td title="'ItemId'" sortable="'ItemId'" filter="{ 'ItemId': 'number' }">{{achatpnj.ItemId}}</td>
+			<td title="'Montant'" sortable="'Amount'" filter="{ 'Amount': 'number' }">{{achatpnj.Amount}}</td>
+			<td title="'Prix'" sortable="'FinalPrice'" filter="{ 'FinalPrice': 'number' }">{{achatpnj.FinalPrice}}</td>
+			<td title="'Token'" sortable="'IsToken'" filter="{ 'IsToken': 'select' }" filter-data="selectIsTokenAchatPnj">{{achatpnj.IsToken}}</td>
+		</tr>
+		
+		<tr ng-if="$data.length == 0">
+			<td colspan="7" class="tablemarcheEmpty">Aucunes données disponibles.</td>
+		</tr>
+	</table>
+</div>
