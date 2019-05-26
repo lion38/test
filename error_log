@@ -1,0 +1,417 @@
+[24-May-2019 19:48:10 UTC] PHP Warning:  require_once(class/RpgApi.php): failed to open stream: No such file or directory in /home/neftgamb/public_html/index.php on line 7
+[24-May-2019 19:48:10 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/RpgApi.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/neftgamb/public_html/index.php on line 7
+[24-May-2019 21:55:49 Europe/Paris] PHP Notice:  Undefined property: stdClass::$Tokens in /home/neftgamb/public_html/include/header.php on line 14
+[24-May-2019 21:55:49 Europe/Paris] PHP Notice:  Undefined property: stdClass::$NewTokens in /home/neftgamb/public_html/include/header.php on line 14
+[24-May-2019 21:55:49 Europe/Paris] PHP Notice:  Undefined property: stdClass::$Tokens in /home/neftgamb/public_html/include/header.php on line 39
+[24-May-2019 21:55:49 Europe/Paris] PHP Notice:  Undefined property: stdClass::$NewTokens in /home/neftgamb/public_html/include/header.php on line 39
+[24-May-2019 21:55:50 Europe/Paris] PHP Notice:  Undefined property: stdClass::$Tokens in /home/neftgamb/public_html/include/header.php on line 14
+[24-May-2019 21:55:50 Europe/Paris] PHP Notice:  Undefined property: stdClass::$NewTokens in /home/neftgamb/public_html/include/header.php on line 14
+[24-May-2019 21:55:50 Europe/Paris] PHP Notice:  Undefined property: stdClass::$Tokens in /home/neftgamb/public_html/include/header.php on line 39
+[24-May-2019 21:55:50 Europe/Paris] PHP Notice:  Undefined property: stdClass::$NewTokens in /home/neftgamb/public_html/include/header.php on line 39
+[24-May-2019 21:56:06 Europe/Paris] PHP Notice:  Undefined property: stdClass::$Tokens in /home/neftgamb/public_html/include/header.php on line 14
+[24-May-2019 21:56:06 Europe/Paris] PHP Notice:  Undefined property: stdClass::$NewTokens in /home/neftgamb/public_html/include/header.php on line 14
+[24-May-2019 21:56:06 Europe/Paris] PHP Notice:  Undefined property: stdClass::$Tokens in /home/neftgamb/public_html/include/header.php on line 39
+[24-May-2019 21:56:06 Europe/Paris] PHP Notice:  Undefined property: stdClass::$NewTokens in /home/neftgamb/public_html/include/header.php on line 39
+[24-May-2019 21:56:06 Europe/Paris] PHP Notice:  Undefined property: stdClass::$Votes in /home/neftgamb/public_html/pages/mon_compte.php on line 17
+[24-May-2019 21:56:06 Europe/Paris] PHP Notice:  Undefined property: stdClass::$Tokens in /home/neftgamb/public_html/pages/mon_compte.php on line 76
+[24-May-2019 21:56:06 Europe/Paris] PHP Notice:  Undefined property: stdClass::$NewTokens in /home/neftgamb/public_html/pages/mon_compte.php on line 76
+[24-May-2019 21:56:20 Europe/Paris] PHP Notice:  Undefined property: stdClass::$Tokens in /home/neftgamb/public_html/include/header.php on line 14
+[24-May-2019 21:56:20 Europe/Paris] PHP Notice:  Undefined property: stdClass::$NewTokens in /home/neftgamb/public_html/include/header.php on line 14
+[24-May-2019 21:56:20 Europe/Paris] PHP Notice:  Undefined property: stdClass::$Tokens in /home/neftgamb/public_html/include/header.php on line 39
+[24-May-2019 21:56:20 Europe/Paris] PHP Notice:  Undefined property: stdClass::$NewTokens in /home/neftgamb/public_html/include/header.php on line 39
+[24-May-2019 21:56:26 Europe/Paris] PHP Notice:  Undefined property: stdClass::$Tokens in /home/neftgamb/public_html/include/header.php on line 14
+[24-May-2019 21:56:26 Europe/Paris] PHP Notice:  Undefined property: stdClass::$NewTokens in /home/neftgamb/public_html/include/header.php on line 14
+[24-May-2019 21:56:26 Europe/Paris] PHP Notice:  Undefined property: stdClass::$Tokens in /home/neftgamb/public_html/include/header.php on line 39
+[24-May-2019 21:56:26 Europe/Paris] PHP Notice:  Undefined property: stdClass::$NewTokens in /home/neftgamb/public_html/include/header.php on line 39
+[24-May-2019 21:56:39 Europe/Paris] PHP Notice:  Undefined property: stdClass::$Tokens in /home/neftgamb/public_html/include/header.php on line 14
+[24-May-2019 21:56:39 Europe/Paris] PHP Notice:  Undefined property: stdClass::$NewTokens in /home/neftgamb/public_html/include/header.php on line 14
+[24-May-2019 21:56:39 Europe/Paris] PHP Notice:  Undefined property: stdClass::$Tokens in /home/neftgamb/public_html/include/header.php on line 39
+[24-May-2019 21:56:39 Europe/Paris] PHP Notice:  Undefined property: stdClass::$NewTokens in /home/neftgamb/public_html/include/header.php on line 39
+[24-May-2019 21:58:01 Europe/Paris] PHP Notice:  Undefined property: stdClass::$Tokens in /home/neftgamb/public_html/include/header.php on line 14
+[24-May-2019 21:58:01 Europe/Paris] PHP Notice:  Undefined property: stdClass::$NewTokens in /home/neftgamb/public_html/include/header.php on line 14
+[24-May-2019 21:58:01 Europe/Paris] PHP Notice:  Undefined property: stdClass::$Tokens in /home/neftgamb/public_html/include/header.php on line 39
+[24-May-2019 21:58:01 Europe/Paris] PHP Notice:  Undefined property: stdClass::$NewTokens in /home/neftgamb/public_html/include/header.php on line 39
+[24-May-2019 21:58:37 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_ip_web' in 'field list' in /home/neftgamb/public_html/pages/inscription.php:61
+Stack trace:
+#0 /home/neftgamb/public_html/pages/inscription.php(61): PDOStatement->execute(Array)
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/inscription.php on line 61
+[24-May-2019 21:59:44 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neftgamb_auth.marche_des_personnages' doesn't exist in /home/neftgamb/public_html/include/header.php:207
+Stack trace:
+#0 /home/neftgamb/public_html/include/header.php(207): PDOStatement->execute(Array)
+#1 /home/neftgamb/public_html/pages/inscription.php(117): include('/home/neftgamb/...')
+#2 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#3 {main}
+  thrown in /home/neftgamb/public_html/include/header.php on line 207
+[24-May-2019 21:59:47 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neftgamb_auth.marche_des_personnages' doesn't exist in /home/neftgamb/public_html/include/rightbar.php:30
+Stack trace:
+#0 /home/neftgamb/public_html/include/rightbar.php(30): PDOStatement->execute(Array)
+#1 /home/neftgamb/public_html/pages/accueil.php(10): include('/home/neftgamb/...')
+#2 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#3 {main}
+  thrown in /home/neftgamb/public_html/include/rightbar.php on line 30
+[24-May-2019 21:59:52 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neftgamb_auth.marche_des_personnages' doesn't exist in /home/neftgamb/public_html/include/header.php:207
+Stack trace:
+#0 /home/neftgamb/public_html/include/header.php(207): PDOStatement->execute(Array)
+#1 /home/neftgamb/public_html/pages/nous_rejoindre.php(9): include('/home/neftgamb/...')
+#2 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#3 {main}
+  thrown in /home/neftgamb/public_html/include/header.php on line 207
+[24-May-2019 21:59:53 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neftgamb_auth.marche_des_personnages' doesn't exist in /home/neftgamb/public_html/include/rightbar.php:30
+Stack trace:
+#0 /home/neftgamb/public_html/include/rightbar.php(30): PDOStatement->execute(Array)
+#1 /home/neftgamb/public_html/pages/accueil.php(10): include('/home/neftgamb/...')
+#2 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#3 {main}
+  thrown in /home/neftgamb/public_html/include/rightbar.php on line 30
+[24-May-2019 21:59:56 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neftgamb_auth.marche_des_personnages' doesn't exist in /home/neftgamb/public_html/include/rightbar.php:30
+Stack trace:
+#0 /home/neftgamb/public_html/include/rightbar.php(30): PDOStatement->execute(Array)
+#1 /home/neftgamb/public_html/pages/accueil.php(10): include('/home/neftgamb/...')
+#2 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#3 {main}
+  thrown in /home/neftgamb/public_html/include/rightbar.php on line 30
+[24-May-2019 22:02:18 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neftgamb_auth.site_news' doesn't exist in /home/neftgamb/public_html/pages/accueil.php:25
+Stack trace:
+#0 /home/neftgamb/public_html/pages/accueil.php(25): PDOStatement->execute()
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/accueil.php on line 25
+[24-May-2019 22:03:46 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neftgamb_auth.site_news' doesn't exist in /home/neftgamb/public_html/pages/accueil.php:25
+Stack trace:
+#0 /home/neftgamb/public_html/pages/accueil.php(25): PDOStatement->execute()
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/accueil.php on line 25
+[24-May-2019 22:03:58 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neftgamb_auth.site_news' doesn't exist in /home/neftgamb/public_html/pages/accueil.php:25
+Stack trace:
+#0 /home/neftgamb/public_html/pages/accueil.php(25): PDOStatement->execute()
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/accueil.php on line 25
+[24-May-2019 22:04:11 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neftgamb_auth.site_news' doesn't exist in /home/neftgamb/public_html/pages/accueil.php:25
+Stack trace:
+#0 /home/neftgamb/public_html/pages/accueil.php(25): PDOStatement->execute()
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/accueil.php on line 25
+[24-May-2019 22:04:14 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neftgamb_auth.site_news' doesn't exist in /home/neftgamb/public_html/pages/accueil.php:25
+Stack trace:
+#0 /home/neftgamb/public_html/pages/accueil.php(25): PDOStatement->execute()
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/accueil.php on line 25
+[24-May-2019 22:11:20 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'visible' in 'where clause' in /home/neftgamb/public_html/pages/accueil.php:25
+Stack trace:
+#0 /home/neftgamb/public_html/pages/accueil.php(25): PDOStatement->execute()
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/accueil.php on line 25
+[24-May-2019 22:11:51 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'visible' in 'where clause' in /home/neftgamb/public_html/pages/accueil.php:25
+Stack trace:
+#0 /home/neftgamb/public_html/pages/accueil.php(25): PDOStatement->execute()
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/accueil.php on line 25
+[24-May-2019 22:12:43 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'visible' in 'where clause' in /home/neftgamb/public_html/pages/accueil.php:25
+Stack trace:
+#0 /home/neftgamb/public_html/pages/accueil.php(25): PDOStatement->execute()
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/accueil.php on line 25
+[24-May-2019 22:12:49 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'visible' in 'where clause' in /home/neftgamb/public_html/pages/accueil.php:25
+Stack trace:
+#0 /home/neftgamb/public_html/pages/accueil.php(25): PDOStatement->execute()
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/accueil.php on line 25
+[24-May-2019 22:13:52 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'visible' in 'where clause' in /home/neftgamb/public_html/pages/accueil.php:25
+Stack trace:
+#0 /home/neftgamb/public_html/pages/accueil.php(25): PDOStatement->execute()
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/accueil.php on line 25
+[24-May-2019 22:14:13 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'visible' in 'where clause' in /home/neftgamb/public_html/pages/accueil.php:25
+Stack trace:
+#0 /home/neftgamb/public_html/pages/accueil.php(25): PDOStatement->execute()
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/accueil.php on line 25
+[24-May-2019 22:14:34 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'visible' in 'where clause' in /home/neftgamb/public_html/pages/accueil.php:25
+Stack trace:
+#0 /home/neftgamb/public_html/pages/accueil.php(25): PDOStatement->execute()
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/accueil.php on line 25
+[24-May-2019 22:16:21 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'visible' in 'where clause' in /home/neftgamb/public_html/pages/accueil.php:25
+Stack trace:
+#0 /home/neftgamb/public_html/pages/accueil.php(25): PDOStatement->execute()
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/accueil.php on line 25
+[24-May-2019 22:16:23 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'visible' in 'where clause' in /home/neftgamb/public_html/pages/accueil.php:25
+Stack trace:
+#0 /home/neftgamb/public_html/pages/accueil.php(25): PDOStatement->execute()
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/accueil.php on line 25
+[24-May-2019 22:17:01 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'visible' in 'where clause' in /home/neftgamb/public_html/pages/accueil.php:25
+Stack trace:
+#0 /home/neftgamb/public_html/pages/accueil.php(25): PDOStatement->execute()
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/accueil.php on line 25
+[24-May-2019 22:18:09 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'visible' in 'where clause' in /home/neftgamb/public_html/pages/accueil.php:25
+Stack trace:
+#0 /home/neftgamb/public_html/pages/accueil.php(25): PDOStatement->execute()
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/accueil.php on line 25
+[24-May-2019 22:20:12 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 22:23:06 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 22:23:13 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 22:23:56 Europe/Paris] PHP Warning:  require(config/phpmailerLIB/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/neftgamb/public_html/pages/vendre_personnages.php on line 307
+[24-May-2019 22:23:56 Europe/Paris] PHP Warning:  require(config/phpmailerLIB/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/neftgamb/public_html/pages/vendre_personnages.php on line 307
+[24-May-2019 22:23:56 Europe/Paris] PHP Fatal error:  require(): Failed opening required 'config/phpmailerLIB/PHPMailerAutoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/neftgamb/public_html/pages/vendre_personnages.php on line 307
+[24-May-2019 22:24:24 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 22:27:08 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 22:28:00 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 22:28:04 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 22:29:16 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 22:32:02 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 22:33:06 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 22:33:24 Europe/Paris] PHP Notice:  Undefined property: stdClass::$rate in /home/neftgamb/public_html/pages/achat_api.php on line 489
+[24-May-2019 22:37:52 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 22:40:15 Europe/Paris] PHP Notice:  Undefined property: stdClass::$rate in /home/neftgamb/public_html/pages/achat_api.php on line 489
+[24-May-2019 22:46:45 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 22:48:40 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 22:48:46 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 22:54:45 Europe/Paris] PHP Warning:  require(config/phpmailerLIB/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/neftgamb/public_html/pages/vendre_personnages.php on line 307
+[24-May-2019 22:54:45 Europe/Paris] PHP Warning:  require(config/phpmailerLIB/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/neftgamb/public_html/pages/vendre_personnages.php on line 307
+[24-May-2019 22:54:45 Europe/Paris] PHP Fatal error:  require(): Failed opening required 'config/phpmailerLIB/PHPMailerAutoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/neftgamb/public_html/pages/vendre_personnages.php on line 307
+[24-May-2019 22:55:36 Europe/Paris] PHP Warning:  require(config/phpmailerLIB/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/neftgamb/public_html/pages/vendre_personnages.php on line 307
+[24-May-2019 22:55:36 Europe/Paris] PHP Warning:  require(config/phpmailerLIB/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/neftgamb/public_html/pages/vendre_personnages.php on line 307
+[24-May-2019 22:55:36 Europe/Paris] PHP Fatal error:  require(): Failed opening required 'config/phpmailerLIB/PHPMailerAutoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/neftgamb/public_html/pages/vendre_personnages.php on line 307
+[24-May-2019 23:12:01 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 23:16:16 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 23:16:28 Europe/Paris] PHP Warning:  require(config/phpmailerLIB/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/neftgamb/public_html/pages/vendre_personnages.php on line 307
+[24-May-2019 23:16:28 Europe/Paris] PHP Warning:  require(config/phpmailerLIB/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/neftgamb/public_html/pages/vendre_personnages.php on line 307
+[24-May-2019 23:16:28 Europe/Paris] PHP Fatal error:  require(): Failed opening required 'config/phpmailerLIB/PHPMailerAutoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/neftgamb/public_html/pages/vendre_personnages.php on line 307
+[24-May-2019 23:17:57 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 23:31:06 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 23:38:07 Europe/Paris] PHP Warning:  require(config/phpmailerLIB/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/neftgamb/public_html/pages/lostpassword.php on line 29
+[24-May-2019 23:38:07 Europe/Paris] PHP Warning:  require(config/phpmailerLIB/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/neftgamb/public_html/pages/lostpassword.php on line 29
+[24-May-2019 23:38:07 Europe/Paris] PHP Fatal error:  require(): Failed opening required 'config/phpmailerLIB/PHPMailerAutoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/neftgamb/public_html/pages/lostpassword.php on line 29
+[24-May-2019 23:38:19 Europe/Paris] PHP Warning:  require(config/phpmailerLIB/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/neftgamb/public_html/pages/lostpassword.php on line 29
+[24-May-2019 23:38:19 Europe/Paris] PHP Warning:  require(config/phpmailerLIB/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/neftgamb/public_html/pages/lostpassword.php on line 29
+[24-May-2019 23:38:19 Europe/Paris] PHP Fatal error:  require(): Failed opening required 'config/phpmailerLIB/PHPMailerAutoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/neftgamb/public_html/pages/lostpassword.php on line 29
+[24-May-2019 23:38:55 Europe/Paris] PHP Warning:  require(config/phpmailerLIB/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/neftgamb/public_html/pages/lostpassword.php on line 29
+[24-May-2019 23:38:55 Europe/Paris] PHP Warning:  require(config/phpmailerLIB/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/neftgamb/public_html/pages/lostpassword.php on line 29
+[24-May-2019 23:38:55 Europe/Paris] PHP Fatal error:  require(): Failed opening required 'config/phpmailerLIB/PHPMailerAutoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/neftgamb/public_html/pages/lostpassword.php on line 29
+[24-May-2019 23:39:19 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 23:39:33 Europe/Paris] PHP Warning:  require(config/phpmailerLIB/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/neftgamb/public_html/pages/lostpassword.php on line 29
+[24-May-2019 23:39:33 Europe/Paris] PHP Warning:  require(config/phpmailerLIB/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/neftgamb/public_html/pages/lostpassword.php on line 29
+[24-May-2019 23:39:33 Europe/Paris] PHP Fatal error:  require(): Failed opening required 'config/phpmailerLIB/PHPMailerAutoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/neftgamb/public_html/pages/lostpassword.php on line 29
+[24-May-2019 23:40:14 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 23:40:33 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 23:41:13 Europe/Paris] PHP Warning:  require(config/phpmailerLIB/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/neftgamb/public_html/pages/lostpassword.php on line 29
+[24-May-2019 23:41:13 Europe/Paris] PHP Warning:  require(config/phpmailerLIB/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/neftgamb/public_html/pages/lostpassword.php on line 29
+[24-May-2019 23:41:13 Europe/Paris] PHP Fatal error:  require(): Failed opening required 'config/phpmailerLIB/PHPMailerAutoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/neftgamb/public_html/pages/lostpassword.php on line 29
+[24-May-2019 23:45:00 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[24-May-2019 23:47:03 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[24-May-2019 23:47:16 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[24-May-2019 23:49:46 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 23:49:46 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[24-May-2019 23:49:49 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 23:50:00 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[24-May-2019 23:50:01 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 23:50:01 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 23:51:39 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[24-May-2019 23:51:54 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[24-May-2019 23:53:26 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[24-May-2019 23:53:40 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[24-May-2019 23:54:24 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[24-May-2019 23:54:24 Europe/Paris] PHP Notice:  crypt(): No salt parameter was specified. You must use a randomly generated salt and a strong hash function to produce a secure hash. in /home/neftgamb/public_html/config/fonction.php on line 14
+[24-May-2019 23:54:39 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[24-May-2019 23:54:39 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 23:55:45 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 23:55:55 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 23:56:15 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[24-May-2019 23:56:26 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[24-May-2019 23:56:26 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipStartVente' in 'field list' in /home/neftgamb/public_html/pages/vendre_personnages.php:395
+Stack trace:
+#0 /home/neftgamb/public_html/pages/vendre_personnages.php(395): PDOStatement->execute(Array)
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/vendre_personnages.php on line 395
+[24-May-2019 23:57:05 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[24-May-2019 23:57:05 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipStartVente' in 'field list' in /home/neftgamb/public_html/pages/vendre_personnages.php:395
+Stack trace:
+#0 /home/neftgamb/public_html/pages/vendre_personnages.php(395): PDOStatement->execute(Array)
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/vendre_personnages.php on line 395
+[25-May-2019 00:00:57 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 00:03:50 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[25-May-2019 00:03:50 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipStartVente' in 'field list' in /home/neftgamb/public_html/pages/vendre_personnages.php:395
+Stack trace:
+#0 /home/neftgamb/public_html/pages/vendre_personnages.php(395): PDOStatement->execute(Array)
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/vendre_personnages.php on line 395
+[25-May-2019 00:04:40 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[25-May-2019 00:04:41 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipStartVente' in 'field list' in /home/neftgamb/public_html/pages/vendre_personnages.php:395
+Stack trace:
+#0 /home/neftgamb/public_html/pages/vendre_personnages.php(395): PDOStatement->execute(Array)
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/vendre_personnages.php on line 395
+[25-May-2019 00:05:06 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 00:07:19 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 00:07:30 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[25-May-2019 00:07:30 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipStartVente' in 'field list' in /home/neftgamb/public_html/pages/vendre_personnages.php:395
+Stack trace:
+#0 /home/neftgamb/public_html/pages/vendre_personnages.php(395): PDOStatement->execute(Array)
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/vendre_personnages.php on line 395
+[25-May-2019 00:09:06 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[25-May-2019 00:09:06 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipStartVente' in 'field list' in /home/neftgamb/public_html/pages/vendre_personnages.php:395
+Stack trace:
+#0 /home/neftgamb/public_html/pages/vendre_personnages.php(395): PDOStatement->execute(Array)
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/vendre_personnages.php on line 395
+[25-May-2019 00:11:39 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[25-May-2019 00:11:39 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipStartVente' in 'field list' in /home/neftgamb/public_html/pages/vendre_personnages.php:395
+Stack trace:
+#0 /home/neftgamb/public_html/pages/vendre_personnages.php(395): PDOStatement->execute(Array)
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/vendre_personnages.php on line 395
+[25-May-2019 00:14:18 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 00:18:41 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[25-May-2019 00:18:41 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ipStartVente' in 'field list' in /home/neftgamb/public_html/pages/vendre_personnages.php:395
+Stack trace:
+#0 /home/neftgamb/public_html/pages/vendre_personnages.php(395): PDOStatement->execute(Array)
+#1 /home/neftgamb/public_html/index.php(202): include('/home/neftgamb/...')
+#2 {main}
+  thrown in /home/neftgamb/public_html/pages/vendre_personnages.php on line 395
+[25-May-2019 00:28:08 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 00:42:01 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 00:42:25 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 00:43:00 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 00:44:07 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 00:44:12 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 00:44:13 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 00:44:50 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 00:44:54 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 00:46:17 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 00:46:39 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 00:46:41 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 00:52:26 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 00:52:28 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 00:53:56 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 00:53:58 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 00:54:07 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 00:54:41 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 00:55:15 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 00:55:16 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 00:55:47 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 00:58:30 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 00:59:11 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 00:59:45 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 00:59:56 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 01:00:00 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 01:00:21 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 01:00:39 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 01:01:38 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 06:10:38 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 06:16:15 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 12:08:05 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 12:13:13 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 12:13:17 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 12:13:41 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 12:13:47 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 12:13:49 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 12:13:52 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 17:06:06 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 17:42:58 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 20:05:36 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 20:05:52 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 20:10:17 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 20:14:23 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 20:14:30 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 20:14:39 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 20:15:23 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 20:15:23 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 20:15:24 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 20:15:27 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 20:19:27 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 20:19:27 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 20:20:08 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 20:27:26 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[25-May-2019 20:27:57 Europe/Paris] PHP Notice:  Undefined index: EntityLookString in /home/neftgamb/public_html/include/api_marche_des_personnages.php on line 39
+[25-May-2019 20:29:23 Europe/Paris] PHP Notice:  Undefined index: EntityLookString in /home/neftgamb/public_html/include/api_marche_des_personnages.php on line 83
+[25-May-2019 20:30:01 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neftgamb_world.item_with_name' doesn't exist in /home/neftgamb/public_html/include/api_marche_des_personnages.php:213
+Stack trace:
+#0 /home/neftgamb/public_html/include/api_marche_des_personnages.php(213): PDOStatement->execute(Array)
+#1 /home/neftgamb/public_html/pages/vendre_personnages.php(90): include('/home/neftgamb/...')
+#2 /home/neftgamb/public_html/index.php(196): include('/home/neftgamb/...')
+#3 {main}
+  thrown in /home/neftgamb/public_html/include/api_marche_des_personnages.php on line 213
+[25-May-2019 22:08:05 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:13:07 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:13:11 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:14:36 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:14:36 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:14:48 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:17:53 Europe/Paris] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/neftgamb/public_html/config/phpmailerLIB/PHPMailerAutoload.php on line 45
+[25-May-2019 22:19:25 Europe/Paris] PHP Notice:  Undefined index: EntityLookString in /home/neftgamb/public_html/include/api_marche_des_personnages.php on line 39
+[25-May-2019 22:20:17 Europe/Paris] PHP Notice:  Undefined index: EntityLookString in /home/neftgamb/public_html/include/api_marche_des_personnages.php on line 83
+[25-May-2019 22:20:48 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:20:48 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:20:58 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:21:20 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:21:27 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:38:12 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:38:13 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:38:17 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 22:39:47 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:41:13 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:41:22 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 22:41:54 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:42:22 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 22:42:30 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 22:42:41 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:43:10 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:43:20 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:43:23 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 22:47:24 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 22:47:43 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:47:46 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 22:47:49 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 22:55:00 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 22:55:08 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 23:20:10 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/include/rightbar.php on line 71
+[25-May-2019 23:20:10 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 23:20:16 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/include/rightbar.php on line 71
+[25-May-2019 23:20:16 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 23:29:33 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/include/rightbar.php on line 71
+[25-May-2019 23:29:33 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 23:29:48 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/include/rightbar.php on line 71
+[25-May-2019 23:29:48 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13
+[25-May-2019 23:31:29 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/include/rightbar.php on line 71
+[25-May-2019 23:31:29 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 23:32:13 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/include/rightbar.php on line 71
+[25-May-2019 23:32:13 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 23:32:32 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/login.php on line 12
+[25-May-2019 23:32:35 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/login.php on line 12
+[25-May-2019 23:32:37 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/login.php on line 12
+[25-May-2019 23:32:43 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/login.php on line 12
+[25-May-2019 23:32:51 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/login.php on line 12
+[25-May-2019 23:32:56 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/include/rightbar.php on line 71
+[25-May-2019 23:32:56 Europe/Paris] PHP Notice:  A non well formed numeric value encountered in /home/neftgamb/public_html/pages/accueil.php on line 76
+[25-May-2019 23:32:58 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/include/rightbar.php on line 71
+[25-May-2019 23:32:58 Europe/Paris] PHP Notice:  Undefined index: Neft-Gaming_connecter in /home/neftgamb/public_html/pages/voter.php on line 13

@@ -1,0 +1,36 @@
+<?php
+$url="http://Neft-Gaming.eu/callPayHMA1695dzaefq75.php"; 
+
+$postFields=array(
+	'custom' => '2', // Account id
+	'clientemail' => 'email@mail.net', // Client email
+	'item' => '186 Ogrines/Jetons', // Product name
+	'amount' => '1.00', // price
+	'fee' => '0.39', // fee
+	'txn' => 'TESTOOOO' // Id paypal of transaction
+);
+
+$options=array(
+      CURLOPT_URL            => $url,
+      CURLOPT_RETURNTRANSFER => true,
+      CURLOPT_HEADER         => false,
+      CURLOPT_FAILONERROR    => true,
+      CURLOPT_POST           => true,
+	  CURLOPT_CONNECTTIMEOUT => 60,
+	  CURLOPT_TIMEOUT        => 60,
+	  CURLOPT_VERBOSE        => false,
+	  CURLOPT_SSL_VERIFYPEER        => false,
+	  CURLOPT_SSL_VERIFYHOST        => false,
+	  CURLOPT_AUTOREFERER    => true,
+      CURLOPT_POSTFIELDS     => $postFields
+);
+
+$CURL=curl_init();
+if(empty($CURL)){die("ERROR : install curl on server");}
+curl_setopt_array($CURL,$options);
+$content=curl_exec($CURL);
+if(curl_errno($CURL)){
+   echo "ERREUR curl_exec : ".curl_error($CURL);
+}
+curl_close($CURL);
+?>
